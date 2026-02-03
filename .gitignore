@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Optional: 若不想把大图提交到仓库可取消下一行注释
+# *.jpg
+# *.png
